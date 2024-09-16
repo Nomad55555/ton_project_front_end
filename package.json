@@ -7,6 +7,7 @@
     "@swc/core": "^1.7.10",
     "@ton-community/func-js": "^0.7.0",
     "@ton-community/test-utils": "^0.3.0",
+    "@ton/blueprint": "^0.23.0",
     "@ton/core": "^0.56.3",
     "@ton/crypto": "^3.3.0",
     "@ton/sandbox": "^0.20.0",
