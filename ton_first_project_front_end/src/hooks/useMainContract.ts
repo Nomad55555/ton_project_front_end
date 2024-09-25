@@ -5,7 +5,7 @@ import { useAsyncInitialize } from "./useAsyncInitialize";
 import { Address, OpenedContract } from "ton-core";
 import { toNano } from "ton-core";
 import { useTonConnect } from "./useTonConnect";
-import { resolve } from "path";
+//import { resolve } from "path";
 
 export function useMainContract() {
   const client = useTonClient();
